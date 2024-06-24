@@ -1,5 +1,16 @@
 ---
-title: "Welcome to my website!"
+title: "Welcome!"
 ---
 
-You're up and running!
+I am currently a doctoral student in the Mathematics & Statistics department at McMaster University.
+
+My interests lie at the intersection of Topology and Machine Learning in field called Topological Data Analysis (TDA). There are many exciting applications of TDA, of particular interest to my research is neuroimaging. A fundamental problem in neuroimaging is understanding how different brain regions interact and how this may relate to diseases such as Schizophrenia and Dementia. Using TDA, the goal is to extract certain invariant features in neuroimaging data that can elicit certain disease signatures.
+
+Courses I have TA'd or tutored are:
+
+- Math 1LS3: Calculus for the Life Sciences
+- Math 1M03: Calculus for Business, Humanities, and the Social Sciences
+- Stats 2DA3: An Introduction to Data Science Methods
+- Stats 3GP3: Probability and Games of Chance
+
+Outside of school, I like to read non-fiction (some fiction), visualize data, and make music.
