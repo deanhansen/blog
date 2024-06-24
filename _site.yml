@@ -19,10 +19,10 @@ navbar:
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:hansed3@mcmaster.ca                    # CHANGE HERE 
+      href: mailto:hansed3@mcmaster.ca
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/deanhansen       # CHANGE HERE 
+      href: https://github.com/deanhansen 
 output:
   html_document:
     theme: cosmo
